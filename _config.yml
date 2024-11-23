@@ -1,8 +1,5 @@
 theme: jekyll-theme-midnight
 title: Recipe Collection
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
+tipue_search:
+  include:
+    pages: true
