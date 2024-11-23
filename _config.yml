@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-midnight
 title: Recipe Collection
 plugins:
   - jekyll-relative-links
