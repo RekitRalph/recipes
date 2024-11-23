@@ -1,6 +1,5 @@
-theme: jekyll-theme-midnight
-title: Recipe database
-description: collection of recipes
+theme: jekyll-theme-dinky
+title: Recipe Collection
 plugins:
   - jekyll-relative-links
 relative_links:
