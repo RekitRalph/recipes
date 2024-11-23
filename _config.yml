@@ -1,11 +1,9 @@
-theme: jekyll-theme-minimal
-title: Recipie database
-description: collection of recipies
+theme: jekyll-theme-midnight
+title: Recipe database
+description: collection of recipes
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
 include:
-  - cookies.md
-  - smores-bars.md

@@ -1,4 +1,4 @@
-# Recipies
+# Recipes
 
-[Chocolate chip cookies](./cookies.md)
-[S'mores Bars](./smores-bars.md)
+- [Chocolate chip cookies](./cookies.md)
+- [S'mores Bars](./smores-bars.md)
