@@ -45,8 +45,8 @@
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for a recipe.." title="Type in a name">
 
 <ul id="myUL">
-  <li><a href="recipes/cookies.md">Chocolate Chip Cookies</a></li>
-  <li><a href="recipes/smores-bars.md">S'mores Bars</a></li>
+- [recipes/cookies.md](Chocolate Chip Cookies)
+- [recipes/smores-bars.md](S'mores Bars)
 
 </ul>
 
