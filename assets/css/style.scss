@@ -2,10 +2,8 @@
 ---
 @import "{{ site.theme }}";
 
-// body {
-//   color: white;
-// }
-
-// a {
-//   color: purple;
-// }
+img {
+max-height: 500px;
+height: 70%;
+width: auto;
+}
