@@ -2,6 +2,10 @@
 ---
 @import "{{ site.theme }}";
 
-{
-  background-color: white
+body {
+  color: white;
+}
+
+a {
+  color: purple;
 }
