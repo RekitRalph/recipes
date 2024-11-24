@@ -2,6 +2,7 @@
 
 > Mels kitchen s'mores bars [link](https://www.melskitchencafe.com/smores-cookie-bars/)
 
+![Smores](../pics/Smores-Brownies2-jpg)
 
 ## Ingredients
 
