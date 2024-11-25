@@ -10,7 +10,7 @@
 - `2 cups` (200 g) crushed graham cracker crumbs
 - `1 teaspoon` baking powder
 - `1/4 teaspoon` salt
-- `1 cup (227 g)` butter, softened to room temperature
+- `1 cup` (227 g) butter, softened to room temperature
 - `1 1/2 cups` (318 g) packed light brown sugar
 - `1 teaspoon` vanilla
 - `2 large` eggs

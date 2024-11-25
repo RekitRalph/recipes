@@ -10,7 +10,7 @@
 - `1 tablespoon` sugar
 - `1 teaspoon` salt
 - `1 teaspoon` baking soda
-- `2` eggs
+- `2 large` eggs
 
 ## Steps
 
