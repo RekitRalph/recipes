@@ -1,2 +1,3 @@
 - [Chocolate Chip Cookies](/recipes/cookies.md)
+- [Oatmeal Pancakes](/recipes/oatmeal-pancakes.md)
 - [S'mores Bars](/recipes/smores-bars.md)

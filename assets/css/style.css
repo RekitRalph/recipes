@@ -3,6 +3,31 @@
       box-sizing: border-box;
     }
 
+
+
+    body {
+        margin: 0 auto;
+        max-width: 36em;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        hyphens: auto;
+        overflow-wrap: break-word;
+        text-rendering: optimizeLegibility;
+        font-kerning: normal;
+        }
+
+    img {
+        max-height: 250px;
+        height: 70%;
+        width: auto;
+    }
+
+    code {
+        font-size: 24px;
+    }
+
     #myInput {
       background-image: url('/css/searchicon.png');
       background-position: 10px 12px;
@@ -35,13 +60,3 @@
     #myUL li a:hover:not(.header) {
       background-color: #eee;
     }
-
-img {
-    max-height: 250px;
-    height: 70%;
-    width: auto;
-}
-
-code {
-    font-size: 24px;
-}
